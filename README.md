@@ -1,0 +1,2 @@
+# cashcoin
+AI Token
